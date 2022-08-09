@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "components/ledger",
+    "components/fnple-cli",
+]
