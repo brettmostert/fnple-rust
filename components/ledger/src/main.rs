@@ -3,7 +3,7 @@
 use crate::account::service::create_account;
 use account::{data::in_memory_repository::InMemoryRepository, service::get_accounts};
 use axum::{
-    routing::{get, post},
+    routing::{get},
     Extension, Router,
 };
 
