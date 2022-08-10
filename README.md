@@ -18,21 +18,14 @@
 - [ ] Transaction Management
   - [ ] Transaction Creation
   - [ ] Transaction Execution
-  - [ ] Transaction Rejection
-  - [ ] Transaction Types
-    - [ ] Money In
-    - [ ] Transfer
-    - [ ] Pay
-    - [ ] Sell
-    - [ ] Buy
-  - [ ] Trader Management
-  - [ ] Customer Management
+  - [ ] Transaction Cancellation
+- [ ] IAM
+  - [ ] Registration (Company / Individual)
+  - [ ] Management
 - [ ] **v1.0** - API
   - [ ] **v1.0** Rest'ish API
   - [ ] **v1.1** GRPC
-- [ ] **v1.1** - Android App
-- [ ] **v1.2** - IOS App
-- [ ] **v1.3** - Desktop App
+- [ ] **v1.1** - App
 ---
 ## Bootstrap
 Add clippy for linting
